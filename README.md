@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/povyouareme](https://github.com/povyouareme)
 
-- ⚡ Fun fact [I'm programming since my 9 yo](I'm programming since my 9 yo)
+- ⚡ Fun fact [I'm programming since my 9 yo]
 
 - 💬 Ask me about **Javascript and C#**
 
