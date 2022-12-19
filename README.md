@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=30&color=dfa2cb&background=E300FF00&center=true&width=1000&lines=print('Hello+%F0%9F%91%8B%2C+I'm+Gabriel')+;print('Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Gabriel')+)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<br><br>    🔭 I’m currently working on a Javascript e-commerce app<br><br>    🌱 I’m currently learning React, Vue, Javascript and C#<br><br>    👯 I’m looking to collaborate on open-source apps<br><br>    🤝 I’m looking for help with my skills<br><br>    👨‍💻 All of my projects are available at https://github.com/gabrielmeiradev<br><br>    ⚡ Fun fact: I'm programming since my 9 yo<br><br>    💬 Ask me about Javascript and C#<br><br>    📫 How to reach me infinity.gabrielmeira@gmail.com<br>
+<br><br>    🔭 I’m currently working on a File Share app<br><br>    🌱 I’m currently learning React, Vue, Javascript and C#<br><br>    👯 I’m looking to collaborate on open-source apps<br><br>    🤝 I’m looking for help with my skills<br><br>    👨‍💻 All of my projects are available at https://github.com/gabrielmeiradev<br><br>    ⚡ Fun fact: I'm programming since my 9 yo<br><br>    💬 Ask me about Javascript and C#<br><br>    📫 How to reach me infinity.gabrielmeira@gmail.com<br>
 
 
 # 💻 Tech Stack:
