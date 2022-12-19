@@ -12,5 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmeiradev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![6kyu in CodeWars](https://www.codewars.com/users/gabrielmeira/badges/large)
+![1kyu in CodeWars](https://www.codewars.com/users/gabrielmeira/badges/large)
 [![](https://visitcount.itsvg.in/api?id=gabrielmeiradev&icon=0&color=0)](https://visitcount.itsvg.in)
