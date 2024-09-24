@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=30&color=dfa2cb&background=E300FF00&center=true&width=1000&lines=print("Hello+%F0%9F%91%8B%2C+I'm+Gabriel")+;print('Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Gabriel')+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=30&color=dfa2cb&background=E300FF00&center=true&width=1000&lines=print("Hello+%F0%9F%91%8B%2C+I'm+Gabriel")+;print("Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Gabriel")+)](https://git.io/typing-svg)
 
 # 🌐 Portfolio:
 ### https://gabrielmeiradev.github.io
