@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=30&color=dfa2cb&background=E300FF00&center=true&width=1000&lines=print("Hello+%F0%9F%91%8B%2C+I'm+Gabriel")+;print("Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Gabriel")+)](https://git.io/typing-svg)
+[![Typing SVG](https://capsule-render.vercel.app/api?type=blur&height=123&color=DA4E5F&text=Hello%20there,%20welcome&desc=I'm%20a%20software%20engineer,%20and%20this%20is%20my%20Github&descAlign=0&descAlignY=77&animation=scaleIn&reversal=false&textBg=false&fontColor=DA4E5F&fontSize=50&fontAlign=50&section=header)]
 
 # 🌐 Portfolio:
 ### https://gabrielmeiradev.github.io
