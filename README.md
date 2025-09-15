@@ -1,4 +1,6 @@
-[![Typing SVG](https://capsule-render.vercel.app/api?type=blur&height=123&color=DA4E5F&text=Hello%20there,%20welcome&desc=I'm%20a%20software%20engineer,%20and%20this%20is%20my%20Github&descAlign=0&descAlignY=77&animation=scaleIn&reversal=false&textBg=false&fontColor=DA4E5F&fontSize=50&fontAlign=50&section=header)]
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=gabrielmeiradev&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
 
 # 🌐 Portfolio:
 ### https://gabrielmeiradev.github.io
